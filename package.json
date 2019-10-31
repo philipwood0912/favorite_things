@@ -1,0 +1,26 @@
+{
+  "name": "favorite_things",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipwood0912/favorite_things.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipwood0912/favorite_things/issues"
+  },
+  "homepage": "https://github.com/philipwood0912/favorite_things#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.6",
+    "mysql": "^2.17.1",
+    "sass": "^1.23.1",
+    "sql": "^0.78.0"
+  }
+}
