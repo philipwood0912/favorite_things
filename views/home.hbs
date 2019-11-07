@@ -1,1 +1,13 @@
-<h1>HELLO HOW ARE YOU?</h1>
+<div class="things-con">
+    <div class="arrow-con">
+        <div class="arrow"><img class="left" src="images/arrow2.svg" alt="arrow"></div>
+        <div class="arrow"><img class="right" src="images/arrow1.svg" alt="arrow"></div>
+    </div>
+    {{#each things}}
+        <div class="thing-div hidden">
+            <h1 class="main-title">{{Title}}</h1>
+            <a href="{{ID}}" class="u-link"><img class="img-{{TitleImg}}" src="images/{{TitleImg}}.svg" alt="image"></a>
+        </div>
+    {{/each}}
+</div>
+<div class="info-con"></div>
