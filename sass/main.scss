@@ -1,0 +1,12 @@
+@import 'modules/_things';
+
+body {
+    margin: 0 auto;
+    padding: 20px;
+    background-color: gray;
+    max-width: 1400px;
+}
+
+.hidden {
+    display: none;
+}

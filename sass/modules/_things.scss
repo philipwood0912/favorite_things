@@ -1,0 +1,33 @@
+.things-con {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    padding: 20px;
+    .thing-div {
+        margin: 0 auto;
+        text-align: center;
+        max-width: 700px;
+        img {
+            width: 80%;
+        }
+        .img-dice {
+            width: 50%;
+        }
+        .img-computer, .img-dice {
+            padding: 20px 0px;
+        }
+    }
+    .arrow-con {
+        display: flex;
+        position: absolute;
+        justify-content: space-between;
+        width: 100%;
+        top: 250px;
+        .arrow {
+            width: 50px;
+            height: 50px;
+        }
+        
+    }
+}
