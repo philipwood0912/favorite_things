@@ -1,13 +1,20 @@
-<div class="things-con">
-    <div class="arrow-con">
-        <div class="arrow"><img class="left" src="images/arrow2.svg" alt="arrow"></div>
-        <div class="arrow"><img class="right" src="images/arrow1.svg" alt="arrow"></div>
+<div class="lightbox">
+    <div class="lb-content">
     </div>
+</div>
+<div class="things-con">
+    <div class="arrow left"><object id="left" data="images/arrow2.svg" type="image/svg+xml"></object></div>
     {{#each things}}
         <div class="thing-div hidden">
             <h1 class="main-title">{{Title}}</h1>
             <a href="{{ID}}" class="u-link"><img class="img-{{TitleImg}}" src="images/{{TitleImg}}.svg" alt="image"></a>
         </div>
     {{/each}}
+    <div class="arrow right"><object id="right" data="images/arrow1.svg" type="image/svg+xml" ></object></div>
+</div>
+<div class="button-con">
+    <div class="button" data-buttonref="0"></div>
+    <div class="button" data-buttonref="1"></div>
+    <div class="button" data-buttonref="2"></div>
 </div>
 <div class="info-con"></div>
