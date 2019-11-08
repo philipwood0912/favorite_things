@@ -1,0 +1,18 @@
+.lightbox {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px;
+    top: 0;
+    left: 0;
+    z-index: 5000;
+    background-color: rgba(0, 0,0, 0.95);
+    .lb-content {
+        overflow-y: scroll;
+    }
+}
+
+.show-lb { display: flex !important; }

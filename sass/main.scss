@@ -1,12 +1,49 @@
 @import 'modules/_things';
+@import 'modules/_thingsinfo';
+@import 'modules/_buttons';
+@import 'modules/_lightbox';
+
+@mixin desktop {
+    @media (min-width: #{700px}){
+        @content;
+    }
+}
+@mixin desktopBig {
+    @media (min-width: #{900px}){
+        @content;
+    }
+}
 
 body {
     margin: 0 auto;
-    padding: 20px;
-    background-color: gray;
+    background-color: #000000;
     max-width: 1400px;
+    max-height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-header {
+    text-align: center;
+    border-bottom: 10px solid #FFFFFF;
+    h1 {
+        font-size: 30px;
+        font-weight: bolder;
+        color: #FFFFFF;
+        @include desktop{
+            font-size: 40px;
+        }
+        @include desktopBig {
+            font-size: 50px;
+        }
+    }
 }
 
 .hidden {
     display: none;
+}
+
+@include desktopBig {
+    .button-con {
+        padding: 30px;
+    }
 }

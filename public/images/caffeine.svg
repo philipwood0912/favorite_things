@@ -24,53 +24,53 @@
       <stop
          id="stop3735"
          offset="0"
-         style="stop-color:black;stop-opacity:1;" />
+         style="stop-color:white;stop-opacity:1;" />
       <stop
          id="stop3737"
          offset="1"
-         style="stop-color:blue;stop-opacity:1;" />
+         style="stop-color:white;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient5704">
       <stop
-         style="stop-color:black;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="0"
          id="stop5706" />
       <stop
-         style="stop-color:#b000ae;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="1"
          id="stop5708" />
     </linearGradient>
     <linearGradient
        id="linearGradient2934">
       <stop
-         style="stop-color:red;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="0"
          id="stop2936" />
       <stop
-         style="stop-color:blue;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="1"
          id="stop2938" />
     </linearGradient>
     <linearGradient
        id="linearGradient12757">
       <stop
-         style="stop-color:black;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="0"
          id="stop12759" />
       <stop
-         style="stop-color:red;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="1"
          id="stop12761" />
     </linearGradient>
     <linearGradient
        id="linearGradient7320">
       <stop
-         style="stop-color:#969696;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="0"
          id="stop7322" />
       <stop
-         style="stop-color:red;stop-opacity:1;"
+         style="stop-color:white;stop-opacity:1;"
          offset="1"
          id="stop7324" />
     </linearGradient>
@@ -79,11 +79,11 @@
       <stop
          id="stop7318"
          offset="0"
-         style="stop-color:black;stop-opacity:1;" />
+         style="stop-color:white;stop-opacity:1;" />
       <stop
          id="stop7316"
          offset="1"
-         style="stop-color:blue;stop-opacity:1;" />
+         style="stop-color:white;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -291,7 +291,7 @@
      id="layer1"
      transform="translate(1124.63,-219.9273)">
     <path
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:9.99999714;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:white;stroke-width:9.99999714;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
        d="M -335.51814,1015.0163 L -512.42808,910.95368 L -512.0579,706.96203"
        id="path5449"
        sodipodi:nodetypes="ccc" />
@@ -310,7 +310,7 @@
        id="text2906"
        y="-1225.76"
        x="-337.64276"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:red;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        xml:space="preserve"
        transform="scale(1,-1)"><tspan
          y="-1225.76"
@@ -329,7 +329,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:red;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        x="64.470436"
        y="632.92847"
        id="text2914"
@@ -340,7 +340,7 @@
          y="632.92847">O</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:blue;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        x="-688.19775"
        y="991.69739"
        id="text1953"
@@ -349,7 +349,7 @@
          id="tspan1955"
          x="-688.19775"
          y="991.69739"
-         style="fill:blue;fill-opacity:1">N</tspan></text>
+         style="fill:white;fill-opacity:1">N</tspan></text>
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3755);stroke-width:9.99999714;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
        d="M -511.97158,706.94996 L -629.77706,668.55566"
@@ -375,9 +375,9 @@
        id="text3739"
        y="737.69739"
        x="-688.19775"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:blue;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        xml:space="preserve"><tspan
-         style="fill:blue;fill-opacity:1"
+         style="fill:white;fill-opacity:1"
          y="737.69739"
          x="-688.19775"
          id="tspan3741"
@@ -388,17 +388,17 @@
        id="path3743"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -484.52004,888.72808 L -484.52004,729.62906"
        id="path3747"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:white;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M -574.3226,882.36412 C -574.08689,882.36412 -573.85119,882.36412 -574.3226,882.36412 z "
        id="path3749" />
     <text
        xml:space="preserve"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:blue;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        x="-339.69778"
        y="675.69739"
        id="text3754"
@@ -407,15 +407,15 @@
          id="tspan3756"
          x="-339.69778"
          y="675.69739"
-         style="fill:blue;fill-opacity:1">N</tspan></text>
+         style="fill:white;fill-opacity:1">N</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3758"
        y="971.69739"
        x="-161.6978"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:blue;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        xml:space="preserve"><tspan
-         style="fill:blue;fill-opacity:1"
+         style="fill:white;fill-opacity:1"
          y="971.69739"
          x="-161.6978"
          id="tspan3760"
@@ -450,18 +450,18 @@
        id="text3782"
        y="385.78363"
        x="-285.5607"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        xml:space="preserve"><tspan
-         style="fill:black;fill-opacity:1"
+         style="fill:white;fill-opacity:1"
          y="385.78363"
          x="-285.5607"
          id="tspan3784"
          sodipodi:role="line">CH<tspan
-   style="fill:black;font-family:Georgia"
+   style="fill:white;font-family:Georgia"
    id="tspan3786" /></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:120px;fill:black;font-family:Arial"
+       style="font-size:120px;fill:white;font-family:Arial"
        x="-175.56071"
        y="413.78363"
        id="text3788"><tspan
@@ -469,12 +469,12 @@
          id="tspan3790"
          x="-175.56071"
          y="413.78363"
-         style="font-size:120px;fill:black;fill-opacity:1;font-family:Arial"><tspan
+         style="font-size:120px;fill:white;fill-opacity:1;font-family:Arial"><tspan
            id="tspan3792"
-           style="font-size:120px;fill:black;font-family:Arial">3</tspan></tspan></text>
+           style="font-size:120px;fill:white;font-family:Arial">3</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        x="135.47795"
        y="1095.7188"
        id="text3794"
@@ -483,37 +483,37 @@
          id="tspan3796"
          x="135.47795"
          y="1095.7188"
-         style="fill:black;fill-opacity:1">CH<tspan
+         style="fill:white;fill-opacity:1">CH<tspan
    id="tspan3798"
-   style="fill:black;font-family:Georgia" /></tspan></text>
+   style="fill:white;font-family:Georgia" /></tspan></text>
     <text
        id="text3800"
        y="1123.7188"
        x="245.47794"
-       style="font-size:120px;fill:black;font-family:Arial"
+       style="font-size:120px;fill:white;font-family:Arial"
        xml:space="preserve"><tspan
-         style="font-size:120px;fill:black;fill-opacity:1;font-family:Arial"
+         style="font-size:120px;fill:white;fill-opacity:1;font-family:Arial"
          y="1123.7188"
          x="245.47794"
          id="tspan3802"
          sodipodi:role="line"><tspan
-           style="font-size:120px;fill:black;font-family:Arial"
+           style="font-size:120px;fill:white;font-family:Arial"
            id="tspan3804">3</tspan></tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3806"
        y="1253.1156"
        x="-825.36377"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        xml:space="preserve"><tspan
-         style="fill:black;fill-opacity:1"
+         style="fill:white;fill-opacity:1"
          y="1253.1156"
          x="-825.36377"
          id="tspan3808"
          sodipodi:role="line">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:120px;fill:black;font-family:Arial"
+       style="font-size:120px;fill:white;font-family:Arial"
        x="-946.36584"
        y="1290.4293"
        id="text3812"><tspan
@@ -521,9 +521,9 @@
          id="tspan3814"
          x="-946.36584"
          y="1290.4293"
-         style="font-size:120px;fill:black;fill-opacity:1;font-family:Arial"><tspan
+         style="font-size:120px;fill:white;fill-opacity:1;font-family:Arial"><tspan
            id="tspan3816"
-           style="font-size:120px;fill:black;font-family:Arial">3</tspan></tspan></text>
+           style="font-size:120px;fill:white;font-family:Arial">3</tspan></tspan></text>
     <path
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3820);stroke-width:9.99999237;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
        d="M 13.129126,1014.7424 L -96.191027,959.80651"
@@ -536,7 +536,7 @@
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient3824);stroke-width:9.99999523;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
     <text
        xml:space="preserve"
-       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:white;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
        x="-1004.0401"
        y="1253.9441"
        id="text1954"
@@ -545,6 +545,6 @@
          id="tspan1956"
          x="-1004.0401"
          y="1253.9441"
-         style="fill:black;fill-opacity:1">H</tspan></text>
+         style="fill:white;fill-opacity:1">H</tspan></text>
   </g>
 </svg>
