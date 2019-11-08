@@ -1,0 +1,74 @@
+@mixin desktop {
+    @media (min-width: #{700px}){
+        @content;
+    }
+}
+
+@mixin desktopBig {
+    @media (min-width: #{900px}){
+        @content;
+    }
+}
+
+
+
+.subDiv {
+    h1, h2, h3, h4 {
+        color: #FFFFFF;
+        margin: 0;
+        padding-top: 10px;
+    }
+    h1 {
+        font-size: 60px;
+        @include desktop{
+            font-size:120px;
+        }
+        @include desktopBig {
+            font-size: 140px;
+        }
+        
+    }
+    h2 {
+        font-size: 30px;
+        @include desktopBig {
+            font-size: 50px;
+        }
+        
+    }
+    h3 {
+        font-size: 80px;
+        @include desktopBig {
+            font-size: 100px;
+        }
+        
+    }
+    h4 {
+        font-size: 30px;
+        padding-bottom: 50px;
+        @include desktopBig {
+            font-size: 50px;
+        }
+        
+    }
+    img {
+        width: 50%;
+        position: absolute;
+        right: 0;
+        top: 150px;
+    }
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+            font-size: 20px;
+            border: 5px solid #FFFFFF;
+            padding: 10px;
+            border-radius: 15px;
+    }
+    a:hover {
+        color: #c1272d;
+        border-color: #c1272d;
+    }
+}
+.error-wrap{
+    padding: 30px;
+}

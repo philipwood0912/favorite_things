@@ -80,7 +80,7 @@ const myVM = (() => {
     // get things data with an event / fetch
     function getUserData(event) {
         event.preventDefault();
-        let url = `/${this.getAttribute('href')}`;
+        let url = `/things/${this.getAttribute('href')}`;
         fetch(url)
             .then(res => res.json())
             .then(data => {
@@ -137,14 +137,18 @@ const myVM = (() => {
         var svgLeftArrow = svgLeft.contentDocument.querySelector("#arrow");
         right.addEventListener("mouseover", function(e){
             svgRightArrow.style.fill = "#c1272d";
+            right.style.opacity = 1;
             right.addEventListener("mouseleave", function(e){
                 svgRightArrow.style.fill = "#FFFFFF";
+                right.style.opacity = 0.1;
             });
         });
         left.addEventListener("mouseover", function(e){
             svgLeftArrow.style.fill = "#c1272d";
+            left.style.opacity = 1;
             left.addEventListener("mouseleave", function(e){
                 svgLeftArrow.style.fill = "#FFFFFF";
+                left.style.opacity = 0.1;
             });
         });
         debugger;

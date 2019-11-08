@@ -15,7 +15,7 @@ router.get('/', (req, res) => {
     })
 })
 
-router.get('/:id', (req, res) => {
+router.get('/things/:id', (req, res) => {
     console.log('at thing route');
     let query = `SELECT ItemImg, Items, Info FROM tbl_things WHERE ID = "${req.params.id}"`;
     
